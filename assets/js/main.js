@@ -39,7 +39,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
+							'images/bg01.jpg': 'bottom center',
 							'images/bg02.jpg': 'center',
 							'images/bg03.jpg': 'center'
 						},
@@ -135,4 +135,8 @@
 
 				$message._hide = function() {
 					$message.classList.remove('visible');
-				}; })})
+				};
+
+		})();
+
+})();
