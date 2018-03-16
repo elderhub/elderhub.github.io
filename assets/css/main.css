@@ -3643,8 +3643,8 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("images/overlay.png");
-		background-position: top left, center center;
+		background-image: url("https://elderhub.tech/images/bg01.jpg");
+		background-position: bottom center, center center;
 		background-attachment: fixed, fixed;
 		background-size: auto, cover;
 		height: 100vh;
